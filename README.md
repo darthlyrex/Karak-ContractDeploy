@@ -53,5 +53,5 @@ contract HelloWorld {
 
 <img width="977" alt="Transaction" src="https://github.com/darthlyrex/Karak-ContractDeploy/assets/165167816/15df2cab-c0e0-426d-9039-f84d7c7e0619">
 
-> İşlemler bu kadardı.
+> That's all.
 
